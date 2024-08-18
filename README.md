@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Willy92629
-- 👀 I’m interested in Smartphone ,Apps ,Music ,Photography.
-- 🌱 I’m currently learning Computer Science.
+- 👋 Hi, I’m Chia-Shen Hsu.
+- 👀 I’m interested in Smartphone, Apps, Music, Photography.
+- 🌱 I’m currently learning Computer Science in NCHU.
 
 
 - 📫 willyshui@gmail.com
